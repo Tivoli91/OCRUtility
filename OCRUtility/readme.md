@@ -1,1 +1,0 @@
-基于[Tesseract5.0](https://github.com/UB-Mannheim/tesseract/wiki)版本封装的一些函数，Tesseract需自行安装，并将tesseract.exe的全路径添加到环境变量中,更新中.
