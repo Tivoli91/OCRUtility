@@ -1,0 +1,6 @@
+C:\Users\ChaoYue\source\repos\BitmapSearch\BitmapSearch\bin\Debug\BitmapSearch.dll
+C:\Users\ChaoYue\source\repos\BitmapSearch\BitmapSearch\bin\Debug\BitmapSearch.pdb
+C:\Users\ChaoYue\source\repos\BitmapSearch\BitmapSearch\obj\Debug\BitmapSearch.csprojAssemblyReference.cache
+C:\Users\ChaoYue\source\repos\BitmapSearch\BitmapSearch\obj\Debug\BitmapSearch.csproj.CoreCompileInputs.cache
+C:\Users\ChaoYue\source\repos\BitmapSearch\BitmapSearch\obj\Debug\BitmapSearch.dll
+C:\Users\ChaoYue\source\repos\BitmapSearch\BitmapSearch\obj\Debug\BitmapSearch.pdb
